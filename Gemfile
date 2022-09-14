@@ -17,6 +17,7 @@ gem "github-pages", "~> 226", group: :jekyll_plugins
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem 'webrick', '~> 1.3', '>= 1.3.1'
+  gem 'jekyll-admin'
   #gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 end
 
